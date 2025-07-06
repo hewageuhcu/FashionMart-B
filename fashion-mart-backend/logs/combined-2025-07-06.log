@@ -1,0 +1,5 @@
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2025-07-06 11:19:25"}
+{"level":"info","message":"Tables already exist, skipping sync to avoid key conflicts","timestamp":"2025-07-06 11:19:25"}
+{"level":"info","message":"Database connected and ready","timestamp":"2025-07-06 11:19:25"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-06 11:19:25"}
+{"level":"info","message":"::1 - - [06/Jul/2025:05:59:24 +0000] \"GET /api/auth/profile HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0\"","timestamp":"2025-07-06 11:29:24"}

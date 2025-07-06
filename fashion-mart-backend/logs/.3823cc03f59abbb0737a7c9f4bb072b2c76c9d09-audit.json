@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\uhche\\Desktop\\FM-Back\\New folder\\FashionMart-Back\\fashion-mart-backend\\logs\\.3823cc03f59abbb0737a7c9f4bb072b2c76c9d09-audit.json",
+    "files": [
+        {
+            "date": 1751604079448,
+            "name": "C:\\Users\\uhche\\Desktop\\FM-Back\\New folder\\FashionMart-Back\\fashion-mart-backend\\logs\\error-2025-07-04.log",
+            "hash": "be21f6d06445d164b3f419e7f654bfbd15ea4d556b59dcf22675f02b0c35d6fc"
+        },
+        {
+            "date": 1751780964010,
+            "name": "C:\\Users\\uhche\\Desktop\\FM-Back\\New folder\\FashionMart-Back\\fashion-mart-backend\\logs\\error-2025-07-06.log",
+            "hash": "e1dd54d7f2b9b3d61ca5a8faa5274de980d5e3667827c8739175531ae0fb822e"
+        }
+    ],
+    "hashType": "sha256"
+}
